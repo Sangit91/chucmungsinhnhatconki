@@ -15,9 +15,9 @@ body{
     perspective: 1000px;
 }
 
-.sound{
+#playAudio{
     position: absolute;
-    bottom: 50%;
+    top: 50%;
 
 }
 
